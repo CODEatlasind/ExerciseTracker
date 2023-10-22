@@ -1,5 +1,7 @@
 # Exercise Tracker
 
+Public Link to Repl: https://replit.com/@ShashankShekh38/ExerciseTracker
+
 Tech Stack Used: MongoDB, Mongoose, Express.js, and Node.js
 
 Description:
